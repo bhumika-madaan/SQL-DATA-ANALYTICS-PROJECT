@@ -4,7 +4,8 @@ SQL Data Analytics Project
 
 This project focuses on analyzing sales data using SQL to identify business trends, evaluate sales performance, and generate meaningful insights.
 
-🛠️ Tools & Technologies
+<h1> Tools & Technologies</h1>
+
 
 - SQL
 - Power BI (Dashboard Visualization)
