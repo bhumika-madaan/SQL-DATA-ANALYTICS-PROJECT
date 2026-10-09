@@ -59,6 +59,10 @@ The business needs to evaluate its sales performance to understand how revenue a
 
 ![Customer Dashboard](Screenshots/Customer_analysis.png)
 
+###        Product Analysis Dashboard
+
+![Product Dashboard](Screenshots/product_analysis.png)
+
 <h4>Key Insights</h4>
 
 The analysis explores sales performance, customer behavior, product performance, and trends to support data-driven business decisions.
