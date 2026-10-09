@@ -25,9 +25,9 @@ This project focuses on analyzing sales data using SQL to identify business tren
 
 <h2> Dashboard Preview </h2>
 <h3>        Sales Dashboard</h3>
-##Dashboard preview 
-![sales dashboard](Screenshots/Sales_analysis.png)
-## Dashboard preview ![sales dashboard](Screenshots/Sales_analysis.png)
+## Dashboard Preview
+
+![Sales Dashboard](Screenshots/Sales_analysis.png)
 
 
 <h4>Key Insights</h4>
