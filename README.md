@@ -57,11 +57,11 @@ The business needs to evaluate its sales performance to understand how revenue a
 
 ###        Customer Analysis Dashboard
 
-![Customer Dashboard](Screenshots/Customer_analysis.png)
+<img src="Screenshots/Customer_analysis.png" width = 800 height=600 alt="Customer Dashboard">
 
 ###        Product Analysis Dashboard
 
-![Product Dashboard](Screenshots/product_analysis.png)
+<img src="Screenshots/product_analysis.png" width = 800 height=600 alt="Product Dashboard">
 
 <h4>Key Insights</h4>
 
