@@ -9,13 +9,13 @@ This project focuses on analyzing sales data using SQL to identify business tren
 - Power BI (Dashboard Visualization)
 - GitHub (Project Documentation)
 
-📂 Project Structure
+<h2>Project Structure</h2>
 
 - Scripts/ – SQL queries for data exploration, analysis, and reporting.
 - Dashboard/ – Dashboard files and related resources.
 - Screenshots/ – Dashboard screenshots for project preview.
 
-🔍 Key Analysis
+<h2> Key Analysis </h2>
 
 - Exploratory Data Analysis (EDA)
 - Customer Analysis
@@ -23,11 +23,11 @@ This project focuses on analyzing sales data using SQL to identify business tren
 - Basic and Advanced SQL Queries
 - Sales Performance Analysis
 
-📊 Dashboard Preview
-
+<h2> Dashboard Preview </h2>
+<h3>        Sales Dashboard</h3>
 "Sales Performance Dashboard" (Screenshots/Sales_analysis.png)
 
-💡 Key Insights
+<h4>Key Insights</h4>
 
 The analysis explores sales performance, customer behavior, product performance, and trends to support data-driven business decisions.
 
