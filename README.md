@@ -53,7 +53,7 @@ The business needs to evaluate its sales performance to understand how revenue a
 ## Dashboard Preview 
 ###        Sales Performance Dashboard
 
-<img src="Screenshots/Sales_analysis.png" width = 900 height=700 alt="Sales Dashboard">
+<img src="Screenshots/Sales_analysis.png" width = 800 height=600 alt="Sales Dashboard">
 
 ###        Customer Analysis Dashboard
 
