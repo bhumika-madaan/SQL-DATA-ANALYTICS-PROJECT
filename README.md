@@ -4,7 +4,7 @@ This project focuses on analyzing sales data using SQL to identify business tren
 
 <h2> Business Problem</h2>
 
-The business needs to evaluate its sales performance to understand how revenue and order volumes change over time, which products contribute the most to overall sales, and where sales performance can be improved. Without a structured analysis, identifying sales trends and underperforming areas can be challenging.
+The business needs to <b>evaluate its sales performance to understand how revenue and order volumes change over time, which products contribute the most to overall sales</b> and <b>where sales performance can be improved</b>. Without a structured analysis, identifying sales trends and underperforming areas can be challenging.
 <h2> Tools & Technologies</h2>
 
 
