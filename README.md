@@ -51,10 +51,13 @@ The business needs to evaluate its sales performance to understand how revenue a
 - Data Visualization and Dashboard Design
 
 ## Dashboard Preview 
-###        Sales Dashboard
+###        Sales Performance Dashboard
 
 ![Sales Dashboard](Screenshots/Sales_analysis.png)
 
+###        Customer Analysis Dashboard
+
+![Customer Dashboard](Screenshots/Customer_analysis.png)
 
 <h4>Key Insights</h4>
 
