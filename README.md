@@ -1,4 +1,6 @@
-<p font=40px>SalesScope Analytics<p>
+===========================================================================================================================
+SalesScope Analytics
+===========================================================================================================================
 Sales Performance , Customer Analysis and Products Insight Using SQL and Power BI
 
 <h2> Project Overview</h2>
