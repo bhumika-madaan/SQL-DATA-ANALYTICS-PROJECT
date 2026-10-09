@@ -23,16 +23,25 @@ This project focuses on analyzing sales data using SQL to identify business tren
 - Basic and Advanced SQL Queries
 - Sales Performance Analysis
 
-<h2>SQL Skills Used</h2>
-<ul>
-<li>Basic SQL Queries and Filtering</li>
-<li>Aggregate Functions and Grouping</li>
-<li>Joins and Subqueries</li>
-<li>Common Table Expressions (CTEs), including Nested CTEs</li>
-<li>Window Functions</li>
-<li>Date Functions</li>
-<li>Exploratory Data Analysis (EDA)</li>
-<li>Customer and Product Reporting</li></ul>
+<h2>Technical Skills Demonstrated</h2>
+
+## SQL
+
+- Data Exploration and Analysis
+- Joins, Aggregations, and Subqueries
+- Common Table Expressions (CTEs), including Nested CTEs
+- Window Functions
+- Date Functions
+- Customer and Product Reporting
+
+## Power BI
+
+- SQL Server Data Connectivity
+- Data Cleaning and Transformation using Power Query
+- Data Modeling and Relationships
+- DAX Measures and KPI Cards
+- Interactive Slicers and Dynamic Filtering
+- Data Visualization and Dashboard Design
 
 <h2> Dashboard Preview </h2>
 <h3>        Sales Dashboard</h3>
