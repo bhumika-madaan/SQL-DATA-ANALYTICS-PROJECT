@@ -5,7 +5,7 @@ This project focuses on analyzing sales data using SQL to identify business tren
 <h2> Business Problem</h2>
 
 The business needs to evaluate its sales performance to understand how revenue and order volumes change over time, which products contribute the most to overall sales, and where sales performance can be improved. Without a structured analysis, identifying sales trends and underperforming areas can be challenging.
-<br>
+<br><br>
 This project uses SQL to analyze sales data, track key performance indicators such as total revenue and order volume, and evaluate sales trends across products and time periods. Power BI is used to present these findings through an interactive dashboard, enabling users to monitor performance and make data-driven business decisions.
 
 <h2> Tools & Technologies</h2>
