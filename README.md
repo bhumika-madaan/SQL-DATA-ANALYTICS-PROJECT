@@ -9,18 +9,12 @@ This project focuses on analyzing sales data using SQL to identify business tren
 ## Business Problem</h2>
 
 The business needs to evaluate its sales performance to understand how revenue and order volumes change over time, which products contribute the most to overall sales, and where sales performance can be improved. Without a structured analysis, identifying sales trends and underperforming areas can be challenging.
+
 ## Tools & Technologies
-
-
 - SQL
 - Power BI (Dashboard Visualization)
 - GitHub (Project Documentation)
 
-## Project Structure
-
-- Scripts/ – SQL queries for data exploration, analysis, and reporting.
-- Dashboard/ – Dashboard files and related resources.
-- Screenshots/ – Dashboard screenshots for project preview.
 
 ## Key Analysis
 
@@ -63,9 +57,35 @@ The business needs to evaluate its sales performance to understand how revenue a
 
 <img src="Screenshots/product_analysis.png" width = 800 height=600 alt="Product Dashboard">
 
-<h4>Key Insights</h4>
+📊 Key Insights
 
-The analysis explores sales performance, customer behavior, product performance, and trends to support data-driven business decisions.
+1. Sales Analysis
+
+- Key findings related to overall sales performance and revenue trends.
+- Analysis of sales patterns and order performance.
+
+2. Customer Analysis
+
+- Key findings related to customer purchasing behavior.
+- Analysis of customer contributions to overall sales.
+
+3. Product Analysis
+
+- Key findings related to product sales and performance.
+- Identification of top-performing products and product-level trends.
+
+4. Dynamic Insights
+
+- Implemented DAX measures to generate insights dynamically based on selected filters and slicers.
+- Enabled interactive exploration of sales, customer, and product performance.
+
+
+## Project Structure
+
+- Scripts/ – SQL queries for data exploration, analysis, and reporting.
+- Dashboard/ – Dashboard files and related resources.
+- Screenshots/ – Dashboard screenshots for project preview.
+
 
 🎯 Project Objective
 
