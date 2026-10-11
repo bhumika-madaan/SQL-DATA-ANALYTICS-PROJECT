@@ -45,40 +45,43 @@ The business needs to evaluate its sales performance to understand how revenue a
 - Data Visualization and Dashboard Design
 
 ## Dashboard Preview 
-###        Sales Performance Dashboard
+### 1.Sales Performance Dashboard
 
 <img src="Screenshots/Sales_analysis.png" width = 800 height=600 alt="Sales Dashboard">
 
-###        Customer Analysis Dashboard
+#### Key Insights
+- Total sales reached approximately 29M.
+- Repeat customers account for around 37.14% of customers.
+- Sales performance can be explored across product categories, regions, and customer segments.
+- United States contribute the highest sale , making it a key market for the business.
+
+### 2.Customer Analysis Dashboard
 
 <img src="Screenshots/Customer_analysis.png" width = 800 height=600 alt="Customer Dashboard">
 
-###        Product Analysis Dashboard
+### Key Insights
+- The dashboard tracks approximately 18.48K customers.
+- Average monthly spend is approximately 452.78.
+- Customer patterns can be compared across age groups, countries, segments, and gender.
+- Average monthly Spending of customer is approximately 453.
+
+### 3.Product Analysis Dashboard
 
 <img src="Screenshots/product_analysis.png" width = 800 height=600 alt="Product Dashboard">
 
-📊 Key Insights
+#### Key Insights
+- 130 distinct products appear in the sales transactions.
+- Products are classified into High, Mid, and Low performer groups.
+- Subcategory-level comparisons help evaluate quantity sold and customer reach.
+- Customers generate higher sales from products with maintenance. 
 
-1. Sales Analysis
+### Dynamic Insights
 
-- Key findings related to overall sales performance and revenue trends.
-- Analysis of sales patterns and order performance.
+- <b> Sales Performance </b>: The dashboard dynamically highlights sales performance across customer segment and Product category. 
+- <b> Customer Analysis </b>: The dashboard updates customer related insights based on customer gender and product Category.
+- <b> Product Analysis </b>: The dashboard provides filter-responsive insights into product performance, maintenance status, and subcategory-level sales patterns.
 
-2. Customer Analysis
-
-- Key findings related to customer purchasing behavior.
-- Analysis of customer contributions to overall sales.
-
-3. Product Analysis
-
-- Key findings related to product sales and performance.
-- Identification of top-performing products and product-level trends.
-
-4. Dynamic Insights
-
-- Implemented DAX measures to generate insights dynamically based on selected filters and slicers.
-- Enabled interactive exploration of sales, customer, and product performance.
-
+These dynamic insights are powered by DAX measures in Power BI and respond to report filters and slicers selections, enabling interactive data exploration.
 
 ## Project Structure
 
