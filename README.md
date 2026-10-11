@@ -100,4 +100,4 @@ These dynamic insights are powered by DAX measures in Power BI and respond to re
 
 This project is connected to my SQL Data Warehouse project, which focuses on preparing and organizing data for analysis.
 
-🔗 **SQL Data Warehouse:** [View Repository](YOUR_SQL_WAREHOUSE_REPOSITORY_LINK)
+🔗 **SQL Data Warehouse:** [View Repository](https://github.com/bhumika-madaan/SQL-DATA-WAREHOUSE-PROJECT)
