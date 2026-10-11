@@ -90,7 +90,14 @@ These dynamic insights are powered by DAX measures in Power BI and respond to re
 - Screenshots – Dashboard screenshots for project preview.
 - README.md - Project documentation.
 
+## How to Explore the Project
 
-🎯 Project Objective
+- View the dashboard screenshots to explore the report pages.
+- Download the Power BI (.pbix) file and open it in Power BI Desktop to interact with the dashboards.
+- Review the SQL scripts to understand the data analysis process.
 
-To strengthen SQL data analysis skills and transform raw data into meaningful business insights through reporting and visualization.
+## Related Project
+
+This project is connected to my SQL Data Warehouse project, which focuses on preparing and organizing data for analysis.
+
+🔗 **SQL Data Warehouse:** [View Repository](YOUR_SQL_WAREHOUSE_REPOSITORY_LINK)
