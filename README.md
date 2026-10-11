@@ -6,15 +6,20 @@
 
 This project focuses on analyzing sales data using SQL to identify business trends, evaluate sales performance, and generate meaningful insights and trends. It involves data exploration, data cleaning, and the development of customer and product reports to evaluate sales performance. It uses SQL to analyze sales data, track key performance indicators such as total revenue and order volume, and evaluate sales trends across products and time periods. A power BI dashboard is created to visualize key performance indicators and present the findings through interactive charts and visulizaation.
 
+The goal is to transform raw sales data into meaningful business insights that support data-driven decision-making.
+
 ## Business Problem</h2>
 
 The business needs to evaluate its sales performance to understand how revenue and order volumes change over time, which products contribute the most to overall sales, and where sales performance can be improved. Without a structured analysis, identifying sales trends and underperforming areas can be challenging.
 
 ## Tools & Technologies
-- SQL
-- Power BI (Dashboard Visualization)
-- GitHub (Project Documentation)
 
+- SQL Server — Data querying, exploration, and analysis.
+- SQL — Joins, aggregations, CTEs, window functions, and reporting queries.
+- Power BI — Interactive dashboards and data visualization.
+- Power Query — Data cleaning and transformation.
+- DAX — KPI calculations and dynamic insights.
+- GitHub — Version control and project documentation.
 
 ## Key Analysis
 
@@ -49,6 +54,20 @@ The business needs to evaluate its sales performance to understand how revenue a
 
 <img src="Screenshots/Sales_analysis.png" width = 800 height=600 alt="Sales Dashboard">
 
+
+Analyzes overall sales performance and helps explore business results across products, regions, and customer segments.
+
+#### Key metrics and Analysis:
+
+- Total Sales
+- Total Orders
+- Total Customers
+- Average Monthly Revenue
+- Repeat Customer Rate
+- Sales by Product Category and Subcategory
+- Geographical Sales Analysis
+- Sales Trends and Interactive Filtering
+
 #### Key Insights
 - Total sales reached approximately 29M.
 - Repeat customers account for around 37.14% of customers.
@@ -59,6 +78,21 @@ The business needs to evaluate its sales performance to understand how revenue a
 
 <img src="Screenshots/Customer_analysis.png" width = 800 height=600 alt="Customer Dashboard">
 
+Explores customer distribution, spending patterns, and sales contribution across customer groups.
+
+#### Key metrics and Analysis:
+
+- Total Customers
+- Repeat Customer Rate
+- Average Monthly Spend
+- Average Order Value
+- Average Quantity per Order
+- Customer Distribution by Age Group
+- Customer Analysis by Country
+- Sales by Customer Segment
+- Gender and Category Filtering
+
+  
 ### Key Insights
 - The dashboard tracks approximately 18.48K customers.
 - Average monthly spend is approximately 452.78.
@@ -68,6 +102,21 @@ The business needs to evaluate its sales performance to understand how revenue a
 ### 3.Product Analysis Dashboard
 
 <img src="Screenshots/product_analysis.png" width = 800 height=600 alt="Product Dashboard">
+
+Evaluates product performance and compares product sales and customer reach across categories and subcategories.
+
+#### Key metrics and analysis:
+
+- Total Products
+- Total Orders
+- Total Sales
+- Average Order Revenue
+- Distinct Products Sold
+- Product Performance Segmentation
+- Orders by Maintenance Status
+- Quantity Sold vs. Customer Reach by Subcategory
+- Product Distribution by Category
+
 
 #### Key Insights
 - 130 distinct products appear in the sales transactions.
