@@ -82,9 +82,10 @@ The business needs to evaluate its sales performance to understand how revenue a
 
 ## Project Structure
 
-- Scripts/ – SQL queries for data exploration, analysis, and reporting.
-- Dashboard/ – Dashboard files and related resources.
-- Screenshots/ – Dashboard screenshots for project preview.
+- Scripts – SQL queries for data exploration, analysis, and reporting.
+- Dashboard – Power BI Dashboard file (.pbix) .
+- Screenshots – Dashboard screenshots for project preview.
+- README.md - Project documentation.
 
 
 🎯 Project Objective
