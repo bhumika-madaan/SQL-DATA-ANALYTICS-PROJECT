@@ -1,4 +1,3 @@
-
 # SalesScope Analytics
 #### Sales Performance , Customer Analysis and Products Insight Using SQL and Power BI
 
@@ -112,13 +111,13 @@ Evaluates product performance and compares product sales and customer reach acro
 - Total Sales
 - Average Order Revenue
 - Distinct Products Sold
-- Product Performance Segmentation
 - Orders by Maintenance Status
 - Quantity Sold vs. Customer Reach by Subcategory
 - Product Distribution by Category
 
 
 #### Key Insights
+
 - 130 distinct products appear in the sales transactions.
 - Products are classified into High, Mid, and Low performer groups.
 - Subcategory-level comparisons help evaluate quantity sold and customer reach.
